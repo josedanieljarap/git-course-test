@@ -1,0 +1,9 @@
+.nyc_output
+.nycrc.json
+coverage/
+node_modules/
+out/
+package-lock.json
+package.json
+sample.txt
+tsconfig.json
